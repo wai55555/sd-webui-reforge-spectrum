@@ -1,0 +1,41 @@
+# IDE
+.vscode/
+.idea/
+.kiro/
+*.swp
+*.swo
+*~
+
+# Environment
+*.env
+*.env.local
+*.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Test/Debug files
+aaa.txt
+*.png
+*.jpg
+*.jpeg
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temporary files
+*コピー*
+新規テキスト*.txt
+claude_rust_ui_offer.txt
+synthetic-watching-pancake.md
+
+
+# Build artifacts
+/dist/
+/build/
+/doc/
+
+# Private documentation (keep locally, don't push to GitHub)
+
